@@ -10,6 +10,7 @@ public class Player implements Controles {
     private String acerto;
     private int dano;
     Random random;
+    
 //construtor
 
     public Player() {
